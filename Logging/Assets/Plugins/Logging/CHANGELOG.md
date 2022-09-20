@@ -10,3 +10,9 @@
 ### This is the first release of *Unity Package Logging*.
 
 *fix build*
+
+## 0.0.3 (2022-09-20)
+
+fix get log path
+
+
