@@ -26,6 +26,8 @@ public class LogPreferencesConfigs
 			EditorPrefs.SetBool(FIRST_TIME, false);
 			Debug.Log("Log is enable for debug, you can turn off in \"Preferences\"");
 		}
+
+		Log.SetUseDarkTheme(EditorGUIUtility.isProSkin);
 	}
 
 	[PreferenceItem("Logging")]

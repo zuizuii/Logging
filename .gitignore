@@ -5,3 +5,4 @@
 /Logging/*.csproj
 /Logging/.vscode
 /Logging/obj
+/Logging/Builds
