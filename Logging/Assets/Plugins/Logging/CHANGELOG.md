@@ -9,15 +9,17 @@
 
 ### This is the first release of *Unity Package Logging*.
 
-+ *fix build*
++ *fixed build*
 
 ## 0.0.3 (2022-09-20)
 
-+ fix get log path
++ fixed get log path
 
 ## 0.0.4 (2023-04-16)
 
-+ fix use pro skin
++ fixed use pro skin
 + auto enable logging when import
++ fixed build
++ fixed get assets path and class name for multi-platform
 
 
