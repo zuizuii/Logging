@@ -1,13 +1,13 @@
 {
     "name": "com.zuizui.logging",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "displayName": "Logging",
     "description": "This is an Log package",
     "unity": "2019.1",
     "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
     "dependencies": {},
     "keywords": [
         "zuizui",
@@ -18,6 +18,6 @@
     "author": {
         "name": "Zuizui",
         "email": "1100tamtam@gmail.com",
-        "url": "https://www.unity3d.com"
+        "url": ""
     }
 }
