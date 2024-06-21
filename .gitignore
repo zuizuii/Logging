@@ -1,0 +1,9 @@
+/Logging/Library
+/Logging/Temp
+/Logging/*.sln
+/Logging/Logs
+/Logging/*.csproj
+/Logging/.vscode
+/Logging/obj
+/Logging/Builds
+/Logging/.idea
